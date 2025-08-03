@@ -20,10 +20,5 @@ Tech Stack details:
 Prerequisites
 
 - Docker
-
-Frontend: http://localhost:3000
-
-API: http://localhost:8080/romannumeral?query=1997
-
-Metrics: http://localhost:8080/metrics
+- Docker Compose
 
